@@ -1,2 +1,2 @@
-# colombia-ekc-modeling-elasticnet
-Empirical validation of the Environmental Kuznets Curve for Colombia using Elastic Net and emission projections for NDC 3.0.
+# Environmental Kuznets Curve (EKC) Modeling & Emission Projections for Colombia
+A Data Science Approach to NDC 3.0 Scenarios
